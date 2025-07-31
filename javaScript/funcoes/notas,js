@@ -1,0 +1,6 @@
+function studentMsg(totalScores, studentScore) {
+    let sum = 0
+    for(let i = 0; i <= totalScores.length; i++){
+      sum = sum + totalScores[i]
+    }
+}
